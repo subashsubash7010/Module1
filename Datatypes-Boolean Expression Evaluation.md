@@ -15,8 +15,8 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-Developed by: Preethika N
-REG NO : 212223040130
+Developed by: Subash M
+REG NO : 212224220109
 ```
 ```
 a = (0 == True)
